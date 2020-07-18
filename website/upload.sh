@@ -1,0 +1,1 @@
+aws s3 sync ./cst-gmbh/build s3://larswillrich.com/cst-gmbh
