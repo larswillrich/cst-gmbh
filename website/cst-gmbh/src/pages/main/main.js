@@ -11,7 +11,7 @@ export default createReactClass({
             <div className="container">
               <div className="row">
                 <div className="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                  <h1 data-aos="fade-up">Vorsprung mit Technologie</h1>
+                  <h1 data-aos="fade-up">Vorsprung durch Technologie</h1>
                   <h2 data-aos="fade-up" data-aos-delay={400}>Innovation und Neugier - mit der CST GmbH erfolgreich in die Zukunft</h2>
                   <div data-aos="fade-up" data-aos-delay={800}>
                     <a href="#about" className="btn-get-started scrollto">Mehr erfahren ...</a>
@@ -33,7 +33,7 @@ export default createReactClass({
                 <div className="col-lg-6" data-aos="fade-up" data-aos-delay={150}>
                   <p>
                     Die Firma CST blickt auf eine Firmengeschichte von mehr als 10 Jahren zurück und überzeugt seit eh und je mit Innovationskraft. Gerade in der aktuell angespannten Marktsituation im Bereich Fenster und Türen gelingt der CST ein Wachstum, so dass der Betrieb reibungslos geführt wird.
-                    Von Beginn an wurden in moderne Konstruktionsprogramme wie 3D Drucker und 3D Scanner investiert. Damit fokussiert sich die CST auf die Entwicklung von zukunftsorientierte Produkte.
+                    Von Beginn an wurden in moderne Konstruktionsprogramme wie 3D Drucker und 3D Scanner investiert. Damit fokussiert sich die CST auf die Entwicklung von zukunftsorientierten Produkten.
                   </p>
                   <ul>
                     <li><i className="ri-check-double-line" /> Zukunftsorientierte Produktion durch 3D Technologie</li>
@@ -196,7 +196,7 @@ export default createReactClass({
                 <div className="col-lg-6 col-md-8" data-aos="fade-up" data-aos-delay={100}>
                   <div className="contact-about">
                     <h3>CST GmbH</h3>
-                    <p>Wir freuen uns auf eine Nachricht von Ihnen und Melden uns gerne zeit nah bei Ihnen.</p>
+                    <p>Wir freuen uns auf eine Nachricht von Ihnen und melden uns gerne zeitnah bei Ihnen.</p>
                   </div>
                 </div>
                 <div className="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay={200}>
