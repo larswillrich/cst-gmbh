@@ -11,18 +11,18 @@ var createReactClass = require('create-react-class');
 var listOfProducts = [
   '20160627_091540.jpg',
   '20200611_121837.jpg',
- 'CST !597 mit Zunge einzeln.jpg',
- 'CST 1266 und 1276.jpg',
- 'CST 1597 kmplett.jpg',
- 'CST 1599 mit Zunge und Dichtung auf Blendrahmen.jpg',
- 'CST einzeln 1266 und 1276.jpg',
- 'CST für Schüco.jpg',
- 'Pfostenverbinder Profine mit weisser Kappe fornax.jpg',
- 'cst 1599 mit Zunge und Dichtung.jpg',
- 'für Schüco.jpg',
- 'gealan PPV NL neu mit Zunge.jpg',
- 'gealan Plättchen.jpg',
- 'gealan nl 1599 image2.jpg',
+ 'CST!597mitZungeeinzeln.jpg',
+ 'CST1266und1276.jpg',
+ 'CST1597kmplett.jpg',
+ 'CST1599mitZungeundDichtungaufBlendrahmen.jpg',
+ 'CSTeinzeln1266und1276.jpg',
+ 'CSTfrSchco.jpg',
+ 'PfostenverbinderProfinemitweisserKappefornax.jpg',
+ 'cst1599mitZungeundDichtung.jpg',
+ 'frSchco.jpg',
+ 'gealanPPVNLneumitZunge.jpg',
+ 'gealanPlttchen.jpg',
+ 'gealannl1599image2.jpg',
  'metal-2-2.jpg',
  'metal-3-3.jpg'
 ]
@@ -64,7 +64,7 @@ export default createReactClass({
                     width={200}
                     height={200}
                     alt="171x180"
-                    src={"assets/img/products/" + value}
+                    src={"https://github.com/larswillrich/cst-gmbh/blob/master/website/cst-gmbh/public/assets/img/products/" + value}
                   />
                   <Figure.Caption>
                   {listOfProductsDescription[index]}
