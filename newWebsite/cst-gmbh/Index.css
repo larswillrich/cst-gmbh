@@ -243,13 +243,12 @@
 
 .u-section-3 .u-list-1 {
   width: 976px;
-  min-height: 737px;
   margin: 49px auto 60px;
 }
 
 .u-section-3 .u-repeater-1 {
   grid-template-columns: 33.3333% 33.3333% 33.3333%;
-  min-height: 701px;
+  min-height: 737px;
   grid-gap: 0px 0px;
   grid-auto-columns: 33.3333%;
 }
@@ -488,13 +487,8 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 978px;
-  }
-
   .u-section-3 .u-list-1 {
     width: 940px;
-    min-height: 711px;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -581,7 +575,6 @@
 
   .u-section-3 .u-list-1 {
     width: 720px;
-    min-height: 1199px;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -773,8 +766,18 @@
 
   .u-section-3 .u-image-1 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -784,8 +787,18 @@
 
   .u-section-3 .u-image-2 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-5 {
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-3 {
@@ -795,8 +808,18 @@
 
   .u-section-3 .u-image-3 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-6 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-7 {
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-4 {
@@ -806,8 +829,18 @@
 
   .u-section-3 .u-image-4 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-8 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-9 {
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-5 {
@@ -817,8 +850,18 @@
 
   .u-section-3 .u-image-5 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-10 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-11 {
+    width: auto;
   }
 
   .u-section-3 .u-container-layout-6 {
@@ -828,8 +871,18 @@
 
   .u-section-3 .u-image-6 {
     height: 276px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-text-12 {
+    width: auto;
+    margin: 43px 28px 0;
+  }
+
+  .u-section-3 .u-text-13 {
+    width: auto;
   }
 }.u-section-4 {
   background-image: none;

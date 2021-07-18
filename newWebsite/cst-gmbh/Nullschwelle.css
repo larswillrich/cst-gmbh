@@ -30,6 +30,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-weight: normal;
   margin: 148px 46px 0;
 }
 
@@ -75,7 +76,6 @@
 
   .u-section-1 .u-text-1 {
     width: 395px;
-    font-weight: normal;
     margin-left: 0;
     margin-right: 0;
   }
